@@ -1,0 +1,6 @@
+{
+    "camera_source": "0",
+    "threshold": 0.6,
+    "model_path": "models/",
+    "attendance_log_path": "attendance_logs/"
+}
